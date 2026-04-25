@@ -1,4 +1,4 @@
-# PULSTATING_CORE
+# PULSATING_CORE
 
 Is a dynamic arcade tower defense game built with Lua and LÖVE2D. You control a powerful cannon at the center of the screen and must defend it from increasingly difficult enemy waves.
 
